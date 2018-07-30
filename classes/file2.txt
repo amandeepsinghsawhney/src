@@ -1,0 +1,5 @@
+1. D:\src>git init
+2. git add .
+3. git commit -m "adding files". -abc
+4. git remote add origin https://github.com/amandeepsinghsawhney/src.git
+5. git push -u origin master
