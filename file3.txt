@@ -1,25 +1,20 @@
-1. D:\src>git init
-2. git add .
-3. git commit -m "adding files". -abc
-4. git remote add origin https://github.com/amandeepsinghsawhney/src.git
-5. git push -u origin master
+Connecting with  the Github repository Using Command prompt.
 
+•	D:\src>git init
+•	git add .
+•	git commit -m "adding files". -abc
+•	git remote add origin https://github.com/amandeepsinghsawhney/src.git
+•	git push -u origin master
 
 How to retrieve code from github - 
-git init(Inside Repo)
-git pull  git://github.com/amandeepsinghsawhney/src.git
-git clone --depth=1 https://github.com/amandeepsinghsawhney/src.git
+•	git init (Inside Repo where you want to retrieve the code)
+•	git pull  git://github.com/amandeepsinghsawhney/src.git
+•	git clone --depth=1 https://github.com/amandeepsinghsawhney/src.git
 
+Saving the updated files on Github.
+•	git init
+•	git status
+•	git add .
+•	git commit -m "adding files". -a
+•	git push -u origin master
 
-Saving the code to the GITHUB
-1. git status
-2. git add classes/File1.txt
-
-
-
-git init
-git status
-git add .
-git push -u origin master
-git commit -m "adding files". -a
-git push -u origin master
