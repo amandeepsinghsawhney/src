@@ -1,0 +1,16 @@
+1. D:\src>git init
+2. git add .
+3. git commit -m "adding files". -abc
+4. git remote add origin https://github.com/amandeepsinghsawhney/src.git
+5. git push -u origin master
+
+
+How to retrieve code from github - 
+git init(Inside Repo)
+git pull  git://github.com/amandeepsinghsawhney/src.git
+git clone --depth=1 https://github.com/amandeepsinghsawhney/src.git
+
+
+Saving the code to the GITHUB
+1. git status
+2. git add classes/File1.txt
