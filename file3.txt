@@ -14,3 +14,12 @@ git clone --depth=1 https://github.com/amandeepsinghsawhney/src.git
 Saving the code to the GITHUB
 1. git status
 2. git add classes/File1.txt
+
+
+
+git init
+git status
+git add .
+git push -u origin master
+git commit -m "adding files". -a
+git push -u origin master
