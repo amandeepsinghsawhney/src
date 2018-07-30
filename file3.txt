@@ -16,5 +16,5 @@ Saving the updated files on Github.
 •	git status
 •	git add .
 •	git commit -m "adding files". -a
-•	git push -u origin master
+•	git push -u origin master. 
 
